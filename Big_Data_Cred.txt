@@ -1,0 +1,7 @@
+Login URL: g01.itversity.com
+username: itv023023
+password: dasaejw3ce9x8bpxzmq5sq2c5utn6z7d
+
+Spark UI:  http://rm.itversity.com/cluster
+(the following link to access the Spark UI directly 
+http://rm.itversity.com)
